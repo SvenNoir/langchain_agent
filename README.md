@@ -58,24 +58,23 @@
   <strong>My Method to Solve The Problem</strong>
 </p>
 
-<p align="left">
-    <strong>Completed task:</strong>
-      - Accepts a user query via a Post request. ✅
-      - Routes the query to one of the following tools:
-        1. Weather Tool = For this tool i'm using the web scrapping method from https://wttr.in/ website (in my code the tool is "get_weather"). ✅
-        2. Math Tool = For this tool i'm using the addition, substraction, multiplication, division, power, and modulo (in my code the tool is "math_operation"). ✅
-        3. LLM Tool = For this tool i'm using the openai model "gpt-4.1-mini" model (in my code the tool is "general_question"). ✅
-      - Returns a structured JSON response that includes:
-        1. The original query ✅
-        2. The tool used ✅
-        3. The result of the tool execution ✅
+## Detail
+<strong>Completed task:</strong>
+  - Accepts a user query via a Post request. ✅
+  - Routes the query to one of the following tools:
+    1. Weather Tool = For this tool i'm using the web scrapping method from https://wttr.in/ website (in my code the tool is "get_weather"). ✅
+    2. Math Tool = For this tool i'm using the addition, substraction, multiplication, division, power, and modulo (in my code the tool is "math_operation"). ✅
+    3. LLM Tool = For this tool i'm using the openai model "gpt-4.1-mini" model (in my code the tool is "general_question"). ✅
+  - Returns a structured JSON response that includes:
+    1. The original query ✅
+    2. The tool used ✅
+    3. The result of the tool execution ✅
     
-   <strong>Additional step:</strong>
-      - Perform the agentic LLM using Langchain and Langgraph ✅ 
-      - Containerization with docker container ✅
-      - Using FastAPI for API building ✅
+<strong>Additional step:</strong>
+  - Perform the agentic LLM using Langchain and Langgraph ✅ 
+  - Containerization with docker container ✅
+  - Using FastAPI for API building ✅
 
-</p>
 
 ## A quick explanation
 ![workflow.jpg](assets/workflow.jpg)
