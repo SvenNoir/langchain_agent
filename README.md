@@ -75,10 +75,10 @@
       - Containerization with docker container ✅
       - Using FastAPI for API building ✅
 
-   <strong> A quick explanation:<strong>
-    ![workflow.jpg](asset/workflow.jpg)
-
 </p>
+
+## A quick explanation
+![workflow.jpg](asset/workflow.jpg)
 
 ## Langgraph Flow
 - The user gives a question as an input into the langgraph.
@@ -90,12 +90,14 @@
 ## How to run:
 
 Github:
-- git init
-- git remote add origin "https://github.com/SvenNoir/langchain_agent.git"
-- git pull origin main
+- Open terminal in current project directory
+- Run git init
+- Run git remote add origin "https://github.com/SvenNoir/langchain_agent.git"
+- Run 'git checkout -b master' if you are not in master branch
+- Run "git pull origin master"
 
 or you can simply cloning the repository:
-- git clone "https://github.com/SvenNoir/langchain_agent.git"
+- Run 'git clone "https://github.com/SvenNoir/langchain_agent.git"'
 
 
 Python environment:
