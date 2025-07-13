@@ -87,15 +87,16 @@
 
 Github:
 - Open terminal in current project directory
-- Run git init
-- Run git remote add origin "https://github.com/SvenNoir/langchain_agent.git"
+- Run 'git init'
+- Run 'git remote add origin "https://github.com/SvenNoir/langchain_agent.git"'
+- Run 'git pull origin main'
+
+if error
 - Run 'git checkout -b master' if you are not in master branch
 - Run "git pull origin master"
 
 or you can simply cloning the repository:
 - Run 'git clone "https://github.com/SvenNoir/langchain_agent.git"'
-- Run 'git checkout -b master' if you are not in master branch
-- Run "git pull origin master"
 
 
 Python environment:
