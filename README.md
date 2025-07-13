@@ -78,7 +78,7 @@
 </p>
 
 ## A quick explanation
-![workflow.jpg](asset/workflow.jpg)
+![workflow.jpg](assets/workflow.jpg)
 
 ## Langgraph Flow
 - The user gives a question as an input into the langgraph.
@@ -98,6 +98,8 @@ Github:
 
 or you can simply cloning the repository:
 - Run 'git clone "https://github.com/SvenNoir/langchain_agent.git"'
+- Run 'git checkout -b master' if you are not in master branch
+- Run "git pull origin master"
 
 
 Python environment:
