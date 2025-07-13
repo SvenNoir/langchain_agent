@@ -54,9 +54,6 @@
   - Containerize the app with Docker
 
 
-<p align="center">
-  <strong>My Method to Solve The Problem</strong>
-</p>
 
 ## Detail
 <strong>Completed task:</strong>
